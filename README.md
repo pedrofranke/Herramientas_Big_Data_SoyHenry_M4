@@ -2,6 +2,8 @@
 
 Este documento es la evidencia de la solucion del proyecto integrador del modulo 4 de SoyHenry, relacionado a la carrera de BootCamp Data Science.
 
+Para ver los detalles paso a paso de la resolucion, por favor guiarse mediante el archivo Resuelto.ipynb
+
 Proyecto integrador Henry - Evidencia
 
 Paso 1: Hadoop
